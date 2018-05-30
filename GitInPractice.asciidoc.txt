@@ -1,1 +1,2 @@
 test
+and stage the changes in the index with git add.
