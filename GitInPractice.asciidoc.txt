@@ -17,3 +17,4 @@ git rebase tmp
 git push origin HEAD:master
 git branch -D tmp
 ***********************************
+git push can take a --force flag !!!!!!!!!!!!! do not use
