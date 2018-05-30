@@ -1,2 +1,12 @@
 test
 and stage the changes in the index with git add.
+git add .
+git commit -m "commit message"
+gitk
+git diff
+
+git remote add origin https://github.com/lupopescu/testForLearningGit.git
+
+git remote --verbose
+
+git push --set-upstream origin master
