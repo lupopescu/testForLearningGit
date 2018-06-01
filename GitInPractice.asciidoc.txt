@@ -31,6 +31,8 @@ git branch --delete chapter-two
 echo Git Sandwich > GitInPracticeReviews.tmp
 git add GitInPracticeReviews.tmp
 git commit --message 'Add review temporary file.'
-git coommit bug
-see bug!
+
+git stash save     --------do all commit neded to fix and 
+git stash pop          -----to return files in place
+
 
