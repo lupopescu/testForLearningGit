@@ -22,7 +22,14 @@ git fetch
 
 git branch chapter-two
 git checkout chapter-two
-git stash list
+git push
 
+git push --delete origin chapter-two
 
+git branch --delete chapter-two
+
+echo Git Sandwich > GitInPracticeReviews.tmp
+git add GitInPracticeReviews.tmp
+git commit --message 'Add review temporary file.'
+git coommit bug
 
