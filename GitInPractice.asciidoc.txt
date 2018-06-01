@@ -22,6 +22,7 @@ git fetch
 
 git branch chapter-two
 git checkout chapter-two
+git stash list
 
 
 
