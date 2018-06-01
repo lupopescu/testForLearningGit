@@ -1,0 +1,28 @@
+test
+and stage the changes in the index with git add.
+git add .
+git commit -m "commit message"
+gitk
+git diff
+
+git remote add origin https://github.com/lupopescu/testForLearningGit.git
+
+git remote --verbose
+--------------------------in future you can run ***git push**** with no arguments on this branch------------
+git push --set-upstream origin master        
+
+***************************
+git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
+***********************************
+second pull
+git fetch
+
+git branch chapter-two
+git checkout chapter-two
+git stash list
+
+
+
