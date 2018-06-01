@@ -32,4 +32,5 @@ echo Git Sandwich > GitInPracticeReviews.tmp
 git add GitInPracticeReviews.tmp
 git commit --message 'Add review temporary file.'
 git coommit bug
+see bug!
 
