@@ -45,4 +45,6 @@ git ls-files -v
 git ls-files -v | grep '^[hsmrck?]' | cut -c 3-            ---list files flaged unchenged
 
 it update-index --no-assume-unchanged <folder/file>
-kk
+
+git branch -d add3
+git push origin --delete add3
