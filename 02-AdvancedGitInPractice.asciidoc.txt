@@ -1,3 +1,4 @@
 chapter
 this is rigtht modification
 for bug
+stash
