@@ -1,2 +1,0 @@
-# testForLearningGit
-learning git repository
