@@ -1,7 +1,11 @@
-EXTRA
- gf
-------------
+delete last commit---------
+git reset HEAD^
 
+git push --force
+--------------------------------------------------------------------
+git config user.email "liuda.popescu06@mail.ru"
 
+ git config user.name "Ludmila Popescu"
 
-chapter 1.
+ git config user.password "codefactory"
+---------------------------------------------------------------------
