@@ -1,4 +1,4 @@
-delete last commit---------
+-----------------------------------------delete last commit---------
 git reset HEAD^
 
 git push --force
